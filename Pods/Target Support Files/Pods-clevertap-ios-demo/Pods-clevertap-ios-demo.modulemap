@@ -1,0 +1,6 @@
+framework module Pods_clevertap_ios_demo {
+  umbrella header "Pods-clevertap-ios-demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
