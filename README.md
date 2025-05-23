@@ -1,1 +1,1 @@
-# clevertap_ios_demo
+# clever-tap-ios-demo
